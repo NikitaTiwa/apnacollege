@@ -1,4 +1,4 @@
 # apnacollege
 This is First git repositery
 <br>
-Author - Shradha didi
+Author - Shradha didi by apna college
